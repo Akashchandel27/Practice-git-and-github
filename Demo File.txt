@@ -15,14 +15,7 @@ git config -- global user.email "akashchandel27@gmail.com"   				# to enter user
 git config user.name                                          				# to know the user name
 git config user.email                                         				# to know the user email
 
-
-
-
-
-
-
-
-
+--------------------------------------------------------------------------------------
 
 git status                              # to know the status of the file
 git init                                # git files comes under the folder
