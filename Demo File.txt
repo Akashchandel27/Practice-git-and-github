@@ -1,1 +1,80 @@
-India 
+Notes for Github and Git Commands 
+------------------------------------------------------------
+Things to remember.
+
+# Open the github account.
+# Remember the user name and password
+# Add any new repo in the Github with any user name.
+------------------------------------------------------------
+
+While using first time things to remember
+
+git version																	# to know the version of git						
+git config -- global user.name "akashchandel27"              				# to enter user name
+git config -- global user.email "akashchandel27@gmail.com"   				# to enter user email 
+git config user.name                                          				# to know the user name
+git config user.email                                         				# to know the user email
+
+
+
+
+
+
+
+
+
+
+git status                              # to know the status of the file
+git init                                # git files comes under the folder
+git status                              # to know the status of the files
+git add --a  git add -A                 # to add the files 
+
+git config -- global user.name "akashchandel27"               # to enter user name
+git config -- global user.email "akashchandel27@gmail.com"    # to enter user email 
+git config user.name                                          # to know the user name
+git config user.email                                         # to know the user email
+
+git status                                                    # best practice to check the status in between
+git commit -m "first commit"                                  # in the " " we are having comment on it 
+
+git status 
+git remote add origin  https "URL"                            # to add in the particular origin
+git status
+
+git push -u origin master                                     # to add in the master branch    
+git status                                                    
+git push -u origin main                                       # to add in the main branch                                    
+
+-----------------------------------------------------------------------
+
+These steps we are able to see in the Github
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Akashchandel27/Python-.git
+git push -u origin main
+
+-----------------------------------------------------------------------
+
+Steps :- For creating the new branch without the main branch in the github (other then)
+
+git branch
+git branch demo2 ------------"demo2 is the file name"
+git cheakout demo2----------- switched to the new branch
+git add .  ----------------- add the file
+git commit -m 'new commit'-----
+git push origin demo2 ---------- add files in the demo2
+
+--------------------------------------------------------------------------
+
+How to take (Pull) code from the github?
+--------------------------------------------------------------------------
+mkdir git_demo                                # it will create the new folder with that name
+cd git_demo                                   # to get into the git_demo folder
+pwd                                           # to enter in that folder
+mkdir changes                                 # create other folder in that
+cd changes                                    # to get into other folder
+git init                                  
+git pull url of github repo                   # to get the code from the github
