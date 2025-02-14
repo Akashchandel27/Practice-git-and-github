@@ -29,6 +29,16 @@ git diff --cached 																			# difference from the previous branch
 
 
 Case-2) If we added the changes git add
+<<<<<<< HEAD
+
+
+
+design branch se aaya hai
+
+
+
+=======
+>>>>>>> 311759b7b7e48f2045946feeb6ce626abfeba24a
 																		# 
 
 
