@@ -41,6 +41,14 @@ design branch se aaya hai
 >>>>>>> 311759b7b7e48f2045946feeb6ce626abfeba24a
 																		# 
 
+cureent branch testA
+git commit -m " code updated in testB"
+git checkout testB
+git pull origin testB
+git merge testA
+git push origin testA
+
+
 
 
 
