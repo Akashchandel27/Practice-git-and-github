@@ -1,5 +1,4 @@
-# line added form github
-
+# line added form git not from github
 
 Notes for Github and Git Commands 
 ------------------------------------------------------------
