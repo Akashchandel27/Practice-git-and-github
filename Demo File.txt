@@ -1,4 +1,5 @@
 # line added form git not from github
+<<<<<<< HEAD
 
 case-2 added in the line 3
 
@@ -7,6 +8,10 @@ case-2 added in the line 3
 Case-7 ---------------------
 
 
+=======
+chiansh is a good boy
+good
+>>>>>>> f1fa7325c7ce57b6a79f451c5b873ba3f2913c11
 
 line added here on the line no 5
 

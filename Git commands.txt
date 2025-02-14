@@ -29,6 +29,13 @@ git diff --cached 																			# difference from the previous branch
 
 
 Case-2) If we added the changes git add
+
+
+
+design branch se aaya hai
+
+
+
 																		# 
 
 
