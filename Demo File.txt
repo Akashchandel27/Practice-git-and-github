@@ -1,5 +1,11 @@
 # line added form git not from github
 
+case-2 added in the line 3
+
+
+
+Case-7 ---------------------
+
 
 
 line added here on the line no 5

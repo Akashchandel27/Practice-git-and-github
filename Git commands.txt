@@ -1,0 +1,37 @@
+Git and GitHub Commands
+--------------------------------
+
+git --version																				# to know the version of the git
+git config --global user.name "Akash Chandel"												# user name setup
+git config --global user.email akashchandel27@gmail.com										# user email setup
+git config --list																			# setuped user-name, user email
+
+
+Create local repo
+------------------------------
+
+git init																					# setup git init the system file
+git status																					# tracked in the staged area or not?
+git add "file name"																			# file added in the staged area (it will in green color)
+git commit -m "first commit"																# to added in the git local repo
+git branch																					# to know all the branch	
+git log 																					# to know the all the commit
+git diff 																					# to compare with the current branch and last commit
+git checkout "unique id"																	# to go on the specfic commit
+git checkout master -- *																	# to go to master branch
+git checkout branchname																		# to go on the specific branch
+
+-------------------------------------------------------
+
+Case-1) Wrong code added in the working directory
+git restore .                                                                         		# to revert in the current branch 
+git diff --cached 																			# difference from the previous branch
+
+
+Case-2) If we added the changes git add
+																		# 
+
+
+
+
+
